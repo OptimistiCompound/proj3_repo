@@ -1,0 +1,15 @@
+Run the OpenGauss
+
+docker run --name project3-opengauss --privileged=true -d -e GS_PASSWORD=a5Ri5g5-0algUps -v D:\\openGauss:/var/lib/opengauss -u root -p 15432:5432 docker.1panel.live/enmotech/opengauss:3.0.0
+
+
+GS_PASSWORD =a5Ri5g5-0algUps
+
+
+Run the PostgreSQL:
+
+docker run -d --name project3-postgres -e POSTGRES_USER=postgres -e POSTGRES_PASSWORD=123 -e POSTGRES_DB=postgres -e PGDATA=/var/lib/postgresql/data/pgdata -p 5433:5432 -v D:\\postgres:/var/lib/postgresql/data docker.1panel.live/ubuntu/postgres:14-22.04_beta
+
+POSTGRES_PASSWORD=123
+
+DBMS: PostgreSQL (版本 14.12 (Ubuntu 14.12-0ubuntu0.22.04.1))  区分大小写: 普通形式=lower，分隔形式=exact 驱动程序: PostgreSQL JDBC Driver (版本 42.6.0，JDBC4.2)
