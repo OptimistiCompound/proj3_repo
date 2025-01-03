@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/86189/Desktop/数据库原理Principles_of_Database/project/project3/repo_database_proj3",
-      "program": "c:/Users/86189/Desktop/数据库原理Principles_of_Database/project/project3/repo_database_proj3/build/Debug/outDebug",
+      "cwd": "c:/Users/86189/Desktop/数据库原理Principles_of_Database/project/project3/proj3_repo/Join",
+      "program": "c:/Users/86189/Desktop/数据库原理Principles_of_Database/project/project3/proj3_repo/Join/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [

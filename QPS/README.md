@@ -1,9 +1,11 @@
+本实验旨在测试postgres和openGauss的点查性能
+
 ## 数据集
 
 在点查实验中，我使用的数据集cities来自于
 https://github.com/dr5hn/countries-states-cities-database
 
-你可以在原仓库中找到cities表，或者你可以使用本项目提供的cities.csv文件和cities.sql来导入数据
+你可以在源仓库中找到cities表，或者你可以使用本项目提供的cities.csv文件和cities.sql来导入数据
 
 ## 数据库压测工具JMeters
 
