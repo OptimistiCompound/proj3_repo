@@ -24,6 +24,7 @@ openGauss 是华为开发的开源关系型数据库管理系统（RDBMS），�
 ├── README.md
 ├── Project 3 Benchmarking openGauss Against PostgreSQL A Comparative Analysis.pdf
 ```
+请对照Project 3 Benchmarking openGauss Against PostgreSQL A Comparative Analysis.pdf中的说明查看本仓库。
 
 ## 环境依赖
 
